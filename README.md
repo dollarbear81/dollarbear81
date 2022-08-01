@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dollarbear81
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python/spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
